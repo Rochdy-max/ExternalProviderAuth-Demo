@@ -7,9 +7,11 @@ This project is built on ASP.NET. Install the following package :
 
 ## Setup
 First clone this reposiroty to your local machine :
+
 ```git clone https://github.com/Rochdy-max/ExternalProviderAuth-Demo.git```
 
 Then move to the directory :
+
 ```cd ExternalProviderAuth-Demo```
 
 ### Google OAuth 2.0
