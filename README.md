@@ -7,7 +7,7 @@ This project is built on ASP.NET. Install the following package :
 
 ## Setup
 First clone this reposiroty to your local machine :
-```git clone ```
+```git clone https://github.com/Rochdy-max/ExternalProviderAuth-Demo.git```
 
 Then move to the directory :
 ```cd ExternalProviderAuth-Demo```
